@@ -1,0 +1,16 @@
+
+<html>
+<!-- <head>
+    <meta name="_xsrf" content="{{.xsrf_token}}" />
+</head> -->
+
+  <body>
+    <form action="/new_message" method="post">
+        {{.xsrfdata}}
+        <input type="text" name="message"/>
+        <input type="submit" value="Post"/>
+      </form>
+
+  </body>
+
+  </html>

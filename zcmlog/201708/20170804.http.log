@@ -1,0 +1,40 @@
+2017/08/04 17:27:40 log.go:46: [POST URL http://127.0.0.1:81/zj/service_listener DATA {"resultNotice":"{\"messCode\":\"01\",\"messBody\":\"[{\"response_message\":\"asd\",\"status\":\"01\",\"payment_no\":1,\"overall_status\":\"02\",\"payment_amount\":18000000,\"app_seq\":\"ZCMde0678274b238165\",\"payment_time\":\"2017-08-03 13:48:49\"},{\"response_message\":\"null:null\",\"status\":\"04\",\"payment_no\":2,\"overall_status\":\"02\",\"payment_amount\":0,\"app_seq\":\"ZCMde0678274b238165\"}]\"}"} RESPONSE {
+  "code": 2,
+  "msg": "resultNotice参数为空"
+}] 
+
+2017/08/04 17:28:53 log.go:46: [POST URL http://127.0.0.1:81/zj/service_listener DATA {"resultNotice":"{\"messCode\":\"01\",\"messBody\":\"[{\"response_message\":\"asd\",\"status\":\"01\",\"payment_no\":1,\"overall_status\":\"02\",\"payment_amount\":18000000,\"app_seq\":\"ZCMde0678274b238165\",\"payment_time\":\"2017-08-03 13:48:49\"},{\"response_message\":\"null:null\",\"status\":\"04\",\"payment_no\":2,\"overall_status\":\"02\",\"payment_amount\":0,\"app_seq\":\"ZCMde0678274b238165\"}]\"}"} RESPONSE {
+  "code": 2,
+  "msg": "resultNotice参数为空"
+}] 
+
+2017/08/04 17:35:32 log.go:46: [POST URL http://127.0.0.1:81/zj/service_listener DATA {"messCode":"01","messBody":"[{"response_message":"asd","status":"01","payment_no":1,"overall_status":"02","payment_amount":18000000,"app_seq":"ZCMde0678274b238165","payment_time":"2017-08-03 13:48:49"},{"response_message":"null:null","status":"04","payment_no":2,"overall_status":"02","payment_amount":0,"app_seq":"ZCMde0678274b238165"}]"} RESPONSE {
+  "code": 2,
+  "msg": "resultNotice参数为空"
+}] 
+
+2017/08/04 17:41:44 log.go:46: [POST URL http://127.0.0.1:81/zj/service_listener DATA {"messCode":"01","messBody":"[{"response_message":"asd","status":"01","payment_no":1,"overall_status":"02","payment_amount":18000000,"app_seq":"ZCMde0678274b238165","payment_time":"2017-08-03 13:48:49"},{"response_message":"null:null","status":"04","payment_no":2,"overall_status":"02","payment_amount":0,"app_seq":"ZCMde0678274b238165"}]"} RESPONSE {
+  "code": 2,
+  "msg": "resultNotice参数为空"
+}] 
+
+2017/08/04 17:41:45 log.go:46: [POST URL http://127.0.0.1:81/zj/service_listener DATA {"messCode":"01","messBody":"[{"response_message":"asd","status":"01","payment_no":1,"overall_status":"02","payment_amount":18000000,"app_seq":"ZCMde0678274b238165","payment_time":"2017-08-03 13:48:49"},{"response_message":"null:null","status":"04","payment_no":2,"overall_status":"02","payment_amount":0,"app_seq":"ZCMde0678274b238165"}]"} RESPONSE {
+  "code": 2,
+  "msg": "resultNotice参数为空"
+}] 
+
+2017/08/04 17:42:30 log.go:46: [POST URL http://127.0.0.1:81/zj/service_listener DATA {"resultNotice":{"messCode":"01","messBody":"[{"response_message":"asd","status":"01","payment_no":1,"overall_status":"02","payment_amount":18000000,"app_seq":"ZCMde0678274b238165","payment_time":"2017-08-03 13:48:49"},{"response_message":"null:null","status":"04","payment_no":2,"overall_status":"02","payment_amount":0,"app_seq":"ZCMde0678274b238165"}]"}} RESPONSE {
+  "code": 2,
+  "msg": "resultNotice参数为空"
+}] 
+
+2017/08/04 17:43:03 log.go:46: [POST URL http://127.0.0.1:81/zj/service_listener DATA {"resultNotice":"{"messCode":"01","messBody":"[{"response_message":"asd","status":"01","payment_no":1,"overall_status":"02","payment_amount":18000000,"app_seq":"ZCMde0678274b238165","payment_time":"2017-08-03 13:48:49"},{"response_message":"null:null","status":"04","payment_no":2,"overall_status":"02","payment_amount":0,"app_seq":"ZCMde0678274b238165"}]"}"} RESPONSE {
+  "code": 2,
+  "msg": "resultNotice参数为空"
+}] 
+
+2017/08/04 17:46:23 log.go:46: [POST URL http://127.0.0.1:81/zj/service_listener DATA {"resultNotice":"{\"messCode\":\"01\",\"messBody\":\"[{\"response_message\":\"asd\",\"status\":\"01\",\"payment_no\":1,\"overall_status\":\"02\",\"payment_amount\":18000000,\"app_seq\":\"ZCMde0678274b238165\",\"payment_time\":\"2017-08-03 13:48:49\"},{\"response_message\":\"null:null\",\"status\":\"04\",\"payment_no\":2,\"overall_status\":\"02\",\"payment_amount\":0,\"app_seq\":\"ZCMde0678274b238165\"}]\"}"} RESPONSE {
+  "code": 2,
+  "msg": "resultNotice参数为空"
+}] 
+
